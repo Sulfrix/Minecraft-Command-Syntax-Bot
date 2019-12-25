@@ -1,0 +1,33 @@
+{
+  "name": "minecraft-command-syntax-bot",
+  "version": "0.0.1",
+  "description": "Discord bot that helps with Minecraft command syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sulfrix/Minecraft-Command-Syntax-Bot.git"
+  },
+  "keywords": [
+    "minecraft",
+    "command",
+    "discord",
+    "discord.js",
+    "discord",
+    "bot",
+    "minecraft",
+    "discord",
+    "bot"
+  ],
+  "author": "Sulfrix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sulfrix/Minecraft-Command-Syntax-Bot/issues"
+  },
+  "homepage": "https://github.com/Sulfrix/Minecraft-Command-Syntax-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
