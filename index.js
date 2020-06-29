@@ -136,7 +136,7 @@ function syntaxCommand(message) {
                         "description": "I couldn't detect this command. Check spaces, player names, etc.",
                         "fields": [{
                             "name": "Your Command:",
-                            "value": "```i had an heart attack```"
+                            "value": `\`\`\`${checkCommand}\`\`\``
                         }]
                     };
                     message.channel.send("What?", {
